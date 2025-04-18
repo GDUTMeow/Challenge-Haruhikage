@@ -25,3 +25,5 @@ Luminoria 听了春日影这首歌后，决定将 Soyo 的金句用工具写进�
 > Soyo：（跪在原地）
 >
 > 天空中下起了小雨，睦头人看着 Soyo，一言不发
+
+![](https://assets.bili33.top/img/%23Miscellaneous/mygo.gif)
