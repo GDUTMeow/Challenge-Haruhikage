@@ -26,19 +26,17 @@ Luminoria 听了春日影这首歌后，决定将 Soyo 的金句用工具写进�
 >
 > 天空中下起了小雨，睦头人看着 Soyo，一言不发
 
-![](https://assets.bili33.top/img/%23Miscellaneous/mygo.gif)
-
 这里所谓的 `Deep` 开头的工具去搜一下，就能找到工具叫做 `Deepsound`
 
-![](https://cdn.jsdelivr.net/img/GDUTMeow/Challenge-Haruhikage/img/image-20250418223331911.png)
+![](https://cdn.jsdelivr.net/gh/GDUTMeow/Challenge-Haruhikage@master/img/image-20250418223331911.png)
 
 打开后，将题目给的附件里面的 wav 拖进去，能看到藏了一个 `flag.txt` 文件
 
-![](https://cdn.jsdelivr.net/img/GDUTMeow/Challenge-Haruhikage/img/image-20250418223552300.png)
+![](https://cdn.jsdelivr.net/gh/GDUTMeow/Challenge-Haruhikage@master/img/image-20250418223552300.png)
 
 提取后去打开文件，得到 flag
 
-![](https://cdn.jsdelivr.net/img/GDUTMeow/Challenge-Haruhikage/img/image-20250418223625239.png)
+![](https://cdn.jsdelivr.net/gh/GDUTMeow/Challenge-Haruhikage@master/img/image-20250418223625239.png)
 
 `flag{n4nde_h@RuhIK4Ge_y@tt@-nO!?}` = Nande Haruhikage yatto no!? = 为什么要演奏春日影！？
 
